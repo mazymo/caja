@@ -69,7 +69,7 @@ La pestaña **Productos** muestra todo lo que hay.
 5. Elegí **cómo paga el cliente** (efectivo, transferencia o tarjeta) y el monto.
 6. Tocá **Confirmar venta**.
 
-Al confirmar, el stock se descuenta solo y se abre el detalle de la venta, con el botón **Imprimir** si el cliente quiere el comprobante.
+Al confirmar, el stock se descuenta solo y se abre el detalle de la venta. Ahí podés tocar **Ver ticket** para verlo antes de imprimir, o **Imprimir** para sacarlo directamente. Si el administrador activó la opción, el ticket se imprime solo al confirmar cada venta.
 
 > Si algún producto ya no alcanza, el programa no registra nada y te avisa cuál falta. Corregí la cantidad y confirmá de nuevo.
 
@@ -167,7 +167,7 @@ Pestaña **Usuarios**:
 No podés bloquear, eliminar ni cambiar el rol de tu propia cuenta. Cuando cambiás algo de otra persona, esa persona debe volver a iniciar sesión.
 
 ### Datos del negocio
-Pestaña **Negocio**: **nombre**, **logo**, **símbolo de moneda** y una **nota** para el pie del comprobante (por ejemplo "Gracias por su compra"). El nombre y el logo aparecen arriba en el programa y en los tickets.
+Pestaña **Negocio**: **nombre**, **logo**, **símbolo de moneda**, **dirección**, **teléfono** y una **nota** para el pie del ticket (por ejemplo "Gracias por su compra"). También elegís el **ancho del papel** (80 mm, el más común, o 58 mm) y si el ticket se imprime solo al confirmar cada venta. El nombre y el logo aparecen en el programa y en los tickets.
 
 ### Respaldos (copias de seguridad)
 En **Negocio**:
